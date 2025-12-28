@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently persuing MCA in GH Raisoni University.<br>I worked as a Java developer in Deloitte for 1.9 years.<br>I completed my graduation in BCA in 2023.<br>
+🎓 MCA Candidate at G H Raisoni University  
+💻 Former Java Developer at Deloitte (1.9 years)  
+🎯 Backend-focused developer skilled in Java & Spring Boot  
+🎓 BCA Graduate (2023)
 
 
 # 💻 Tech Stack:
