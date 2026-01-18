@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 MCA Candidate at G H Raisoni University  
-💻 Former Java Developer at Deloitte (1.9 years)  
+💻 Java Developer at Deloitte (1.9 years)  
 🎯 Backend-focused developer skilled in Java & Spring Boot  
 🎓 BCA Graduate (2023)
 
